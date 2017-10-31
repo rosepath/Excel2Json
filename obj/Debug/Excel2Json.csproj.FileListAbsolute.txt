@@ -1,0 +1,14 @@
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\Excel2Json.exe.config
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\Excel2Json.exe
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\Excel2Json.pdb
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.csprojResolveAssemblyReference.cache
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.Form1.resources
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.Properties.Resources.resources
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.csproj.GenerateResource.Cache
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.csproj.CoreCompileInputs.cache
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.exe
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\obj\Debug\Excel2Json.pdb
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\ExcelDataReader.dll
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\ExcelDataReader.xml
+C:\Users\saran945\Desktop\achilles\forfriends\Excel2Json\Excel2Json\bin\Debug\Newtonsoft.Json.xml
